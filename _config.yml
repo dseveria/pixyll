@@ -40,7 +40,7 @@ facebook_comments_number: 10
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: duseveri
 skype_username:
 steam_nickname:
 google_plus_id:
@@ -55,7 +55,7 @@ flattr_button:
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
